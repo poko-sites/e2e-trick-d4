@@ -1,305 +1,373 @@
-bmFtZTogRGVwbG95IFNpdGUKCmVudjoKICBCVUlMRF9QQVRIOiAiLiIKICBC
-QVNFX1VSTDogJHt7IHZhcnMuQkFTRV9VUkwgfX0KICBQUk9EX1VSTDogJHt7
-IHZhcnMuUFJPRF9VUkwgfX0KICBDT05URU5UX0RJUjogJHt7IHZhcnMuQ09O
-VEVOVF9ESVIgfX0KICBDTVNfQVVUSF9VUkw6ICR7eyB2YXJzLkNNU19BVVRI
-X1VSTCB9fQogIFBST0RfQlJBTkNIOiAke3sgdmFycy5QUk9EX0JSQU5DSCB9
-fQogIENNU19JTVBPUlQ6ICR7eyB2YXJzLkNNU19JTVBPUlQgfX0KICBDTVNf
-UkVQTzogJHt7IHZhcnMuQ01TX1JFUE8gfX0KICBDTVNfQkFDS0VORDogJHt7
-IHZhcnMuQ01TX0JBQ0tFTkQgfX0KICBDTVNfQlJBTkNIOiAke3sgdmFycy5D
-TVNfQlJBTkNIIH19CiAgX1ZBUlM6ICR7eyB0b0pzb24odmFycykgfX0KICBS
-RVBPX1VSTDogJHt7IGdpdGh1Yi5ldmVudC5yZXBvc2l0b3J5Lmh0bWxfdXJs
-IH19CiAgIyBPcHRpb25hbDogb3ZlcnJpZGUgQnVuIHZlcnNpb24uIEZhbGxz
-IGJhY2sgdG8gcGFja2FnZS5qc29uIGVuZ2luZXMuYnVuIGlmIHVuc2V0Lgog
-IEJVTl9WRVJTSU9OOiAke3sgdmFycy5CVU5fVkVSU0lPTiB9fQoKb246CiAg
-IyBSdW5zIG9uIHB1c2hlcyB0byBhbnkgYnJhbmNoICh1bmxlc3MgY29tbWl0
-IGNvbnRhaW5zIFtza2lwIGNpXSkuCiAgIyBtYWluIC0+IHByb2R1Y3Rpb24g
-ZGVwbG95OyBhbnkgb3RoZXIgYnJhbmNoIC0+IENsb3VkZmxhcmUgcHJldmll
-dyBVUkwuCiAgcHVzaDoKICAgIGJyYW5jaGVzOgogICAgICAtICIqKiIKICAj
-IE1hbnVhbCBkZXBsb3ltZW50IHdpdGggcGxhdGZvcm0gc2VsZWN0aW9uCiAg
-d29ya2Zsb3dfZGlzcGF0Y2g6CiAgICBpbnB1dHM6CiAgICAgIGRlcGxveW1l
-bnRfdGFyZ2V0OgogICAgICAgIGRlc2NyaXB0aW9uOiAiQ2hvb3NlIGRlcGxv
-eW1lbnQgdGFyZ2V0IgogICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAg
-ZGVmYXVsdDogImNsb3VkZmxhcmUtcGFnZXMiCiAgICAgICAgdHlwZTogY2hv
-aWNlCiAgICAgICAgb3B0aW9uczoKICAgICAgICAgIC0gZ2l0aHViLXBhZ2Vz
-CiAgICAgICAgICAtIGNsb3VkZmxhcmUtcGFnZXMKICAgICAgIyBCbGFja3Nt
-aXRoIHJ1bm5lcnMgcmVxdWlyZSB0aGUgcmVwbyBjb25uZWN0ZWQgYXQgYmxh
-Y2tzbWl0aC5zaC4KICAgICAgIyBGb3IgcHVzaC10cmlnZ2VyZWQgcnVucywg
-c2V0IHJlcG8gdmFyaWFibGUgUlVOTkVSIChlLmcuIGJsYWNrc21pdGgtNHZj
-cHUtdWJ1bnR1LTI0MDQpLgogICAgICBydW5uZXI6CiAgICAgICAgZGVzY3Jp
-cHRpb246ICJDaG9vc2UgcnVubmVyIgogICAgICAgIHJlcXVpcmVkOiB0cnVl
-CiAgICAgICAgZGVmYXVsdDogInVidW50dS1sYXRlc3QiCiAgICAgICAgdHlw
-ZTogY2hvaWNlCiAgICAgICAgb3B0aW9uczoKICAgICAgICAgIC0gdWJ1bnR1
-LWxhdGVzdAogICAgICAgICAgLSBibGFja3NtaXRoLTR2Y3B1LXVidW50dS0y
-NDA0CgpwZXJtaXNzaW9uczoKICBjb250ZW50czogcmVhZAogIHBhZ2VzOiB3
-cml0ZQogIGlkLXRva2VuOiB3cml0ZQogIGRlcGxveW1lbnRzOiB3cml0ZQoK
-Y29uY3VycmVuY3k6CiAgZ3JvdXA6ICR7eyBnaXRodWIud29ya2Zsb3cgfX0t
-JHt7IGdpdGh1Yi5yZWYgfX0KICBjYW5jZWwtaW4tcHJvZ3Jlc3M6IGZhbHNl
-Cgpqb2JzOgogICMgQ2hlY2sgaWYgd2Ugc2hvdWxkIHNraXAgQ0kgYW5kIGRl
-dGVybWluZSBkZXBsb3ltZW50IHRhcmdldAogIHNldHVwOgogICAgbmFtZTog
-U2V0dXAgRGVwbG95bWVudAogICAgcnVucy1vbjogJHt7IGlucHV0cy5ydW5u
-ZXIgfHwgdmFycy5SVU5ORVIgfHwgJ3VidW50dS1sYXRlc3QnIH19CiAgICBv
-dXRwdXRzOgogICAgICBzaG91bGRfc2tpcDogJHt7IHN0ZXBzLmNoZWNrLm91
-dHB1dHMuc2hvdWxkX3NraXAgfX0KICAgICAgZGVwbG95bWVudF90YXJnZXQ6
-ICR7eyBzdGVwcy50YXJnZXQub3V0cHV0cy5kZXBsb3ltZW50X3RhcmdldCB9
-fQogICAgICBidW5fdmVyc2lvbjogJHt7IHN0ZXBzLmJ1bi5vdXRwdXRzLnZl
-cnNpb24gfX0KICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IENoZWNrb3V0CiAg
-ICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2NwoKICAgICAgLSBuYW1l
-OiBDaGVjayBmb3IgW3NraXAgY2ldIGluIGNvbW1pdCBtZXNzYWdlCiAgICAg
-ICAgaWQ6IGNoZWNrCiAgICAgICAgZW52OgogICAgICAgICAgSEVBRF9DT01N
-SVRfTUVTU0FHRTogJHt7IGdpdGh1Yi5ldmVudC5oZWFkX2NvbW1pdC5tZXNz
-YWdlIH19CiAgICAgICAgcnVuOiB8CiAgICAgICAgICBpZiBbWyAiJEhFQURf
-Q09NTUlUX01FU1NBR0UiID09ICoiW3NraXAgY2ldIiogXV07IHRoZW4KICAg
-ICAgICAgICAgZWNobyAic2hvdWxkX3NraXA9dHJ1ZSIgPj4gJEdJVEhVQl9P
-VVRQVVQKICAgICAgICAgICAgZWNobyAiRm91bmQgW3NraXAgY2ldIGluIGNv
-bW1pdCBtZXNzYWdlLCBza2lwcGluZyB3b3JrZmxvdyIKICAgICAgICAgIGVs
-c2UKICAgICAgICAgICAgZWNobyAic2hvdWxkX3NraXA9ZmFsc2UiID4+ICRH
-SVRIVUJfT1VUUFVUCiAgICAgICAgICBmaQoKICAgICAgLSBuYW1lOiBEZXRl
-cm1pbmUgZGVwbG95bWVudCB0YXJnZXQKICAgICAgICBpZDogdGFyZ2V0CiAg
-ICAgICAgaWY6IHN0ZXBzLmNoZWNrLm91dHB1dHMuc2hvdWxkX3NraXAgPT0g
-J2ZhbHNlJwogICAgICAgIGVudjoKICAgICAgICAgIENGX0FQSV9UT0tFTjog
-JHt7IHNlY3JldHMuQ0xPVURGTEFSRV9BUElfVE9LRU4gfX0KICAgICAgICAg
-IENGX0FDQ09VTlRfSUQ6ICR7eyBzZWNyZXRzLkNMT1VERkxBUkVfQUNDT1VO
-VF9JRCB9fQogICAgICAgIHJ1bjogfAogICAgICAgICAgaWYgWyAiJHt7IGdp
-dGh1Yi5ldmVudF9uYW1lIH19IiA9ICJ3b3JrZmxvd19kaXNwYXRjaCIgXTsg
-dGhlbgogICAgICAgICAgICBlY2hvICJkZXBsb3ltZW50X3RhcmdldD0ke3sg
-Z2l0aHViLmV2ZW50LmlucHV0cy5kZXBsb3ltZW50X3RhcmdldCB9fSIgPj4g
-IiRHSVRIVUJfT1VUUFVUIgogICAgICAgICAgZWxpZiBbICIke3sgZ2l0aHVi
-LnJlZl9uYW1lIH19IiAhPSAibWFpbiIgXTsgdGhlbgogICAgICAgICAgICAj
-IE5vbi1tYWluIGJyYW5jaGVzIG9ubHkgcHJvZHVjZSBDbG91ZGZsYXJlIHBy
-ZXZpZXcgZGVwbG95bWVudHMKICAgICAgICAgICAgZWNobyAiZGVwbG95bWVu
-dF90YXJnZXQ9Y2xvdWRmbGFyZS1wYWdlcyIgPj4gIiRHSVRIVUJfT1VUUFVU
-IgogICAgICAgICAgZWxzZQogICAgICAgICAgICAjIG1haW46IGRlZmF1bHQg
-dG8gY2xvdWRmbGFyZS1wYWdlcyB3aGVuIENGIHNlY3JldHMgYXJlIHNldCwg
-ZWxzZSBnaXRodWItcGFnZXMKICAgICAgICAgICAgaWYgWyAtbiAiJENGX0FQ
-SV9UT0tFTiIgXSAmJiBbIC1uICIkQ0ZfQUNDT1VOVF9JRCIgXTsgdGhlbgog
-ICAgICAgICAgICAgIGVjaG8gImRlcGxveW1lbnRfdGFyZ2V0PWNsb3VkZmxh
-cmUtcGFnZXMiID4+ICIkR0lUSFVCX09VVFBVVCIKICAgICAgICAgICAgZWxz
-ZQogICAgICAgICAgICAgIGVjaG8gImRlcGxveW1lbnRfdGFyZ2V0PWdpdGh1
-Yi1wYWdlcyIgPj4gIiRHSVRIVUJfT1VUUFVUIgogICAgICAgICAgICBmaQog
-ICAgICAgICAgZmkKCiAgICAgIC0gbmFtZTogR2V0IEJ1biB2ZXJzaW9uCiAg
-ICAgICAgaWQ6IGJ1bgogICAgICAgIGlmOiBzdGVwcy5jaGVjay5vdXRwdXRz
-LnNob3VsZF9za2lwID09ICdmYWxzZScKICAgICAgICBydW46IHwKICAgICAg
-ICAgIGlmIFsgLW4gIiRCVU5fVkVSU0lPTiIgXTsgdGhlbgogICAgICAgICAg
-ICBlY2hvICJ2ZXJzaW9uPSRCVU5fVkVSU0lPTiIgPj4gIiRHSVRIVUJfT1VU
-UFVUIgogICAgICAgICAgZWxzZQogICAgICAgICAgICAjIFJlYWQgZnJvbSBw
-YWNrYWdlLmpzb24gZW5naW5lcy5idW4gKHN0cmlwIGFueSBsZWFkaW5nID49
-LCBeLCB+KQogICAgICAgICAgICBWRVJTSU9OPSQoanEgLXIgJy5lbmdpbmVz
-LmJ1bicgcGFja2FnZS5qc29uIHwgc2VkICdzL1s+PX5eXS8vZycpCiAgICAg
-ICAgICAgIGVjaG8gInZlcnNpb249JFZFUlNJT04iID4+ICIkR0lUSFVCX09V
-VFBVVCIKICAgICAgICAgIGZpCgogICMgRXNjYXBlIGhhdGNoOiBhIHNlbGVj
-dGVkIHJ1bm5lciBsYWJlbCB0aGF0IG5ldmVyIHBpY2tzIHVwIChlLmcuIEJs
-YWNrc21pdGgKICAjIHJlcXVlc3RlZCBvbiBhIHJlcG8gdGhhdCBpc24ndCBj
-b25uZWN0ZWQpIGxlYXZlcyBqb2JzIHF1ZXVlZCB1bnRpbCBHaXRIdWIncwog
-ICMgMjRoIHNlbGYtaG9zdGVkIHF1ZXVlIGNlaWxpbmcuIFRoaXMgam9iIHJ1
-bnMgb24gdWJ1bnR1LWxhdGVzdCwgd2FpdHMsIGFuZAogICMgY2FuY2VscyB0
-aGUgcnVuIGlmIG5vdGhpbmcgZXZlciBzdGFydGVkLiBPbmx5IHJ1bnMgZm9y
-IG5vbi1kZWZhdWx0IHJ1bm5lcnMuCiAgd2F0Y2hkb2c6CiAgICBuYW1lOiBS
-dW5uZXIgV2F0Y2hkb2cKICAgIGlmOiAke3sgKGlucHV0cy5ydW5uZXIgfHwg
-dmFycy5SVU5ORVIgfHwgJ3VidW50dS1sYXRlc3QnKSAhPSAndWJ1bnR1LWxh
-dGVzdCcgfX0KICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHRpbWVv
-dXQtbWludXRlczogMTAKICAgIHBlcm1pc3Npb25zOgogICAgICBhY3Rpb25z
-OiB3cml0ZQogICAgICBjb250ZW50czogcmVhZAogICAgc3RlcHM6CiAgICAg
-IC0gbmFtZTogQ2FuY2VsIHJ1biBpZiB0aGUgc2VsZWN0ZWQgcnVubmVyIG5l
-dmVyIHBpY2tlZCB1cAogICAgICAgIGVudjoKICAgICAgICAgIEdIX1RPS0VO
-OiAke3sgc2VjcmV0cy5HSVRIVUJfVE9LRU4gfX0KICAgICAgICAgIFJVTl9J
-RDogJHt7IGdpdGh1Yi5ydW5faWQgfX0KICAgICAgICBydW46IHwKICAgICAg
-ICAgIHNsZWVwIDMwMAogICAgICAgICAgU1RBUlRFRD0kKGdoIGFwaSAicmVw
-b3MvJHtHSVRIVUJfUkVQT1NJVE9SWX0vYWN0aW9ucy9ydW5zLyR7UlVOX0lE
-fS9qb2JzIiBcCiAgICAgICAgICAgIC0tanEgJ1suam9ic1tdIHwgc2VsZWN0
-KC5uYW1lICE9ICJSdW5uZXIgV2F0Y2hkb2ciKSB8IHNlbGVjdCguc3RhdHVz
-ID09ICJpbl9wcm9ncmVzcyIgb3IgLnN0YXR1cyA9PSAiY29tcGxldGVkIild
-IHwgbGVuZ3RoJykKICAgICAgICAgIGlmIFsgIiRTVEFSVEVEIiAtZXEgMCBd
-OyB0aGVuCiAgICAgICAgICAgIGVjaG8gIjo6ZXJyb3I6Ok5vIGpvYiBzdGFy
-dGVkIHdpdGhpbiA1bWluIC0gcnVubmVyIGxhYmVsIHVuYXZhaWxhYmxlLiBS
-ZXJ1biB3aXRoIHJ1bm5lcj11YnVudHUtbGF0ZXN0IG9yIGZpeCB0aGUgQmxh
-Y2tzbWl0aCBjb25uZWN0aW9uLiIKICAgICAgICAgICAgZ2ggcnVuIGNhbmNl
-bCAiJFJVTl9JRCIgfHwgdHJ1ZQogICAgICAgICAgZmkKCiAgIyBWYWxpZGF0
-ZSByZXF1aXJlZCBzZWNyZXRzIGFuZCBjb25maWd1cmF0aW9ucwogIHZhbGlk
-YXRlOgogICAgbmFtZTogVmFsaWRhdGUgQ29uZmlndXJhdGlvbgogICAgbmVl
-ZHM6IHNldHVwCiAgICBydW5zLW9uOiAke3sgaW5wdXRzLnJ1bm5lciB8fCB2
-YXJzLlJVTk5FUiB8fCAndWJ1bnR1LWxhdGVzdCcgfX0KICAgIGlmOiBuZWVk
-cy5zZXR1cC5vdXRwdXRzLnNob3VsZF9za2lwID09ICdmYWxzZScKICAgIG91
-dHB1dHM6CiAgICAgIGNhbl9kZXBsb3k6ICR7eyBzdGVwcy52YWxpZGF0ZS5v
-dXRwdXRzLmNhbl9kZXBsb3kgfX0KICAgICAgZXJyb3JfbWVzc2FnZTogJHt7
-IHN0ZXBzLnZhbGlkYXRlLm91dHB1dHMuZXJyb3JfbWVzc2FnZSB9fQogICAg
-c3RlcHM6CiAgICAgIC0gbmFtZTogVmFsaWRhdGUgZGVwbG95bWVudCBjb25m
-aWd1cmF0aW9uCiAgICAgICAgaWQ6IHZhbGlkYXRlCiAgICAgICAgZW52Ogog
-ICAgICAgICAgQ0ZfQVBJX1RPS0VOOiAke3sgc2VjcmV0cy5DTE9VREZMQVJF
-X0FQSV9UT0tFTiB9fQogICAgICAgICAgQ0ZfQUNDT1VOVF9JRDogJHt7IHNl
-Y3JldHMuQ0xPVURGTEFSRV9BQ0NPVU5UX0lEIH19CiAgICAgICAgcnVuOiB8
-CiAgICAgICAgICBUQVJHRVQ9IiR7eyBuZWVkcy5zZXR1cC5vdXRwdXRzLmRl
-cGxveW1lbnRfdGFyZ2V0IH19IgogICAgICAgICAgQ0FOX0RFUExPWT0idHJ1
-ZSIKICAgICAgICAgIEVSUk9SX01TRz0iIgoKICAgICAgICAgIGlmIFsgIiRU
-QVJHRVQiID0gImNsb3VkZmxhcmUtcGFnZXMiIF07IHRoZW4KICAgICAgICAg
-ICAgaWYgWyAteiAiJENGX0FQSV9UT0tFTiIgXSB8fCBbIC16ICIkQ0ZfQUND
-T1VOVF9JRCIgXTsgdGhlbgogICAgICAgICAgICAgIENBTl9ERVBMT1k9ImZh
-bHNlIgogICAgICAgICAgICAgIEVSUk9SX01TRz0iTWlzc2luZyBDbG91ZGZs
-YXJlIHNlY3JldHM6IENMT1VERkxBUkVfQVBJX1RPS0VOIGFuZC9vciBDTE9V
-REZMQVJFX0FDQ09VTlRfSUQiCiAgICAgICAgICAgIGZpCiAgICAgICAgICBl
-bGlmIFsgIiRUQVJHRVQiID0gImdpdGh1Yi1wYWdlcyIgXTsgdGhlbgogICAg
-ICAgICAgICAjIEdpdEh1YiBQYWdlcyBkb2Vzbid0IHJlcXVpcmUgYWRkaXRp
-b25hbCBzZWNyZXRzCiAgICAgICAgICAgIGVjaG8gIkdpdEh1YiBQYWdlcyBk
-ZXBsb3ltZW50IGNvbmZpZ3VyYXRpb24gaXMgdmFsaWQiCiAgICAgICAgICBm
-aQoKICAgICAgICAgIGVjaG8gImNhbl9kZXBsb3k9JENBTl9ERVBMT1kiID4+
-ICIkR0lUSFVCX09VVFBVVCIKICAgICAgICAgIGVjaG8gImVycm9yX21lc3Nh
-Z2U9JEVSUk9SX01TRyIgPj4gIiRHSVRIVUJfT1VUUFVUIgoKICBidWlsZDoK
-ICAgIG5hbWU6IEJ1aWxkCiAgICBuZWVkczogW3NldHVwLCB2YWxpZGF0ZV0K
-ICAgIHJ1bnMtb246ICR7eyBpbnB1dHMucnVubmVyIHx8IHZhcnMuUlVOTkVS
-IHx8ICd1YnVudHUtbGF0ZXN0JyB9fQogICAgdGltZW91dC1taW51dGVzOiAx
-MAogICAgaWY6IHwKICAgICAgbmVlZHMuc2V0dXAub3V0cHV0cy5zaG91bGRf
-c2tpcCA9PSAnZmFsc2UnICYmIAogICAgICBuZWVkcy52YWxpZGF0ZS5vdXRw
-dXRzLmNhbl9kZXBsb3kgPT0gJ3RydWUnCiAgICBzdGVwczoKICAgICAgLSBu
-YW1lOiBDaGVja291dAogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRA
-djcKCiAgICAgICMgU2VsZWN0IHRoZSBydW50aW1lIGJlZm9yZSBwcm92aXNp
-b25pbmcgQnVuIHNvIHRoZSBucG0vTm9kZSBmYWxsYmFjawogICAgICAjIHN0
-YXlzIHJlYWNoYWJsZTogU2V0dXAgQnVuIG9ubHkgcnVucyB3aGVuIEJ1biBp
-cyBhbHJlYWR5IGluIGNvbnRleHQKICAgICAgIyAocGlubmluZyBpdHMgdmVy
-c2lvbik7IG90aGVyd2lzZSB0aGUgam9iIGdvZXMgc3RyYWlnaHQgdG8gTm9k
-ZS4KICAgICAgLSBuYW1lOiBEZXRlY3QgcnVudGltZQogICAgICAgIGlkOiBy
-dW50aW1lCiAgICAgICAgcnVuOiB8CiAgICAgICAgICBpZiBjb21tYW5kIC12
-IGJ1biA+L2Rldi9udWxsIDI+JjE7IHRoZW4KICAgICAgICAgICAgZWNobyAi
-YnVuPXRydWUiID4+ICIkR0lUSFVCX09VVFBVVCIKICAgICAgICAgIGVsc2UK
-ICAgICAgICAgICAgZWNobyAiYnVuPWZhbHNlIiA+PiAiJEdJVEhVQl9PVVRQ
-VVQiCiAgICAgICAgICBmaQoKICAgICAgLSBuYW1lOiBTZXR1cCBCdW4KICAg
-ICAgICBpZjogc3RlcHMucnVudGltZS5vdXRwdXRzLmJ1biA9PSAndHJ1ZScK
-ICAgICAgICB1c2VzOiBvdmVuLXNoL3NldHVwLWJ1bkB2MgogICAgICAgIHdp
-dGg6CiAgICAgICAgICBidW4tdmVyc2lvbjogJHt7IG5lZWRzLnNldHVwLm91
-dHB1dHMuYnVuX3ZlcnNpb24gfX0KCiAgICAgIC0gbmFtZTogU2V0dXAgTm9k
-ZQogICAgICAgIGlmOiBzdGVwcy5ydW50aW1lLm91dHB1dHMuYnVuICE9ICd0
-cnVlJwogICAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2NwogICAg
-ICAgIHdpdGg6CiAgICAgICAgICBub2RlLXZlcnNpb246IDI0CiAgICAgICAg
-ICBjYWNoZTogbnBtCiAgICAgICAgICBjYWNoZS1kZXBlbmRlbmN5LXBhdGg6
-ICR7eyBlbnYuQlVJTERfUEFUSCB9fS9wYWNrYWdlLWxvY2suanNvbgoKICAg
-ICAgLSBuYW1lOiBDYWNoZSBCdW4gZGVwZW5kZW5jaWVzCiAgICAgICAgaWY6
-IHN0ZXBzLnJ1bnRpbWUub3V0cHV0cy5idW4gPT0gJ3RydWUnCiAgICAgICAg
-dXNlczogYWN0aW9ucy9jYWNoZUB2NgogICAgICAgIHdpdGg6CiAgICAgICAg
-ICBwYXRoOiB+Ly5idW4vaW5zdGFsbC9jYWNoZQogICAgICAgICAga2V5OiAk
-e3sgcnVubmVyLm9zIH19LWJ1bi0ke3sgaGFzaEZpbGVzKCcqKi9idW4ubG9j
-aycsICcqKi9idW4ubG9ja2InKSB9fQogICAgICAgICAgcmVzdG9yZS1rZXlz
-OiB8CiAgICAgICAgICAgICR7eyBydW5uZXIub3MgfX0tYnVuLQoKICAgICAg
-LSBuYW1lOiBDYWNoZSBidWlsZCBhc3NldHMKICAgICAgICB1c2VzOiBhY3Rp
-b25zL2NhY2hlQHY2CiAgICAgICAgd2l0aDoKICAgICAgICAgIHBhdGg6IC5j
-YWNoZQogICAgICAgICAga2V5OiAke3sgcnVubmVyLm9zIH19LWFzc2V0cy0k
-e3sgZ2l0aHViLnJ1bl9pZCB9fQogICAgICAgICAgcmVzdG9yZS1rZXlzOiB8
-CiAgICAgICAgICAgICR7eyBydW5uZXIub3MgfX0tYXNzZXRzLQoKICAgICAg
-LSBuYW1lOiBJbnN0YWxsIGRlcGVuZGVuY2llcwogICAgICAgIHJ1bjogfAog
-ICAgICAgICAgaWYgY29tbWFuZCAtdiBidW4gPi9kZXYvbnVsbCAyPiYxOyB0
-aGVuCiAgICAgICAgICAgIGJ1biBpbnN0YWxsCiAgICAgICAgICBlbGlmIFsg
-LWYgcGFja2FnZS1sb2NrLmpzb24gXTsgdGhlbgogICAgICAgICAgICBucG0g
-Y2kKICAgICAgICAgIGVsc2UKICAgICAgICAgICAgbnBtIGluc3RhbGwKICAg
-ICAgICAgIGZpCiAgICAgICAgd29ya2luZy1kaXJlY3Rvcnk6ICR7eyBlbnYu
-QlVJTERfUEFUSCB9fQoKICAgICAgIyBFeHBvc2VzIGV2ZXJ5IEdpdEh1YiBB
-Y3Rpb25zIHNlY3JldCBhcyBhbiBlbnYgdmFyIGZvciBzdWJzZXF1ZW50IHN0
-ZXBzLAogICAgICAjIHNvIGFueSBzZWNyZXQgeW91IGFkZCBpbiByZXBvIHNl
-dHRpbmdzIGlzIGF2YWlsYWJsZSBpbiBwcm9jZXNzLmVudiBhdCBidWlsZCB0
-aW1lLgogICAgICAjIE11bHRpbGluZS1zYWZlOyB2YWx1ZXMgcmVtYWluIG1h
-c2tlZCBpbiBsb2dzLiBFeGNsdWRlcyB0aGUgYXV0byBnaXRodWJfdG9rZW4u
-CiAgICAgIC0gbmFtZTogRXhwb3J0IHNlY3JldHMgdG8gZW52aXJvbm1lbnQK
-ICAgICAgICBlbnY6CiAgICAgICAgICBTRUNSRVRTX0pTT046ICR7eyB0b0pz
-b24oc2VjcmV0cykgfX0KICAgICAgICBydW46IHwKICAgICAgICAgIGVjaG8g
-IiRTRUNSRVRTX0pTT04iIFwKICAgICAgICAgICAgfCBqcSAtciAndG9fZW50
-cmllc1tdIHwgc2VsZWN0KC5rZXkgIT0gImdpdGh1Yl90b2tlbiIpIHwgIlwo
-LmtleSk8PF9fUE9LT19FT0ZfX1xuXCgudmFsdWUpXG5fX1BPS09fRU9GX18i
-JyBcCiAgICAgICAgICAgID4+ICIkR0lUSFVCX0VOViIKCiAgICAgICMgRXhw
-b3NlcyB0aGUgVVJMIGNvbmZpZ3VyZWQgaW4gdGhlIHJlcG9zaXRvcnkgUGFn
-ZXMgc2V0dGluZ3MsIGN1c3RvbQogICAgICAjIGRvbWFpbiBpbmNsdWRlZCwg
-c28gdGhlIGJ1aWxkIGtub3dzIHdoZXRoZXIgaXQgaXMgc2VydmVkIGZyb20g
-YQogICAgICAjIGAvPHJlcG8+L2Agc3ViLWZvbGRlciBvciBmcm9tIHRoZSBy
-b290IG9mIGEgZG9tYWluLgogICAgICAtIG5hbWU6IFNldHVwIFBhZ2VzCiAg
-ICAgICAgaWQ6IHBhZ2VzCiAgICAgICAgaWY6IG5lZWRzLnNldHVwLm91dHB1
-dHMuZGVwbG95bWVudF90YXJnZXQgPT0gJ2dpdGh1Yi1wYWdlcycKICAgICAg
-ICB1c2VzOiBhY3Rpb25zL2NvbmZpZ3VyZS1wYWdlc0B2NgoKICAgICAgLSBu
-YW1lOiBCdWlsZCB3aXRoIDExdHkKICAgICAgICBydW46IHwKICAgICAgICAg
-IGlmIGNvbW1hbmQgLXYgYnVuID4vZGV2L251bGwgMj4mMTsgdGhlbgogICAg
-ICAgICAgICBidW4gcnVuIGJ1aWxkCiAgICAgICAgICBlbHNlCiAgICAgICAg
-ICAgIG5wbSBydW4gYnVpbGQKICAgICAgICAgIGZpCiAgICAgICAgd29ya2lu
-Zy1kaXJlY3Rvcnk6ICR7eyBlbnYuQlVJTERfUEFUSCB9fQogICAgICAgIGVu
-djoKICAgICAgICAgIERFUExPWU1FTlRfVEFSR0VUOiAke3sgbmVlZHMuc2V0
-dXAub3V0cHV0cy5kZXBsb3ltZW50X3RhcmdldCB9fQogICAgICAgICAgR0lU
-SFVCX1BBR0VTX1VSTDogJHt7IHN0ZXBzLnBhZ2VzLm91dHB1dHMuYmFzZV91
-cmwgfX0KCiAgICAgIC0gbmFtZTogVXBsb2FkIGJ1aWxkIGFydGlmYWN0cwog
-ICAgICAgIHVzZXM6IGFjdGlvbnMvdXBsb2FkLWFydGlmYWN0QHY3CiAgICAg
-ICAgd2l0aDoKICAgICAgICAgIG5hbWU6IGJ1aWxkLWZpbGVzCiAgICAgICAg
-ICBwYXRoOiAke3sgZW52LkJVSUxEX1BBVEggfX0vZGlzdAogICAgICAgICAg
-cmV0ZW50aW9uLWRheXM6IDEKCiAgZGVwbG95LWdpdGh1Yi1wYWdlczoKICAg
-IG5hbWU6IERlcGxveSB0byBHaXRIdWIgUGFnZXMKICAgIG5lZWRzOiBbc2V0
-dXAsIHZhbGlkYXRlLCBidWlsZF0KICAgIHJ1bnMtb246ICR7eyBpbnB1dHMu
-cnVubmVyIHx8IHZhcnMuUlVOTkVSIHx8ICd1YnVudHUtbGF0ZXN0JyB9fQog
-ICAgaWY6IHwKICAgICAgbmVlZHMuc2V0dXAub3V0cHV0cy5zaG91bGRfc2tp
-cCA9PSAnZmFsc2UnICYmIAogICAgICBuZWVkcy52YWxpZGF0ZS5vdXRwdXRz
-LmNhbl9kZXBsb3kgPT0gJ3RydWUnICYmCiAgICAgIG5lZWRzLnNldHVwLm91
-dHB1dHMuZGVwbG95bWVudF90YXJnZXQgPT0gJ2dpdGh1Yi1wYWdlcycKICAg
-IGVudmlyb25tZW50OgogICAgICBuYW1lOiBnaXRodWItcGFnZXMKICAgICAg
-dXJsOiAke3sgc3RlcHMuZGVwbG95bWVudC5vdXRwdXRzLnBhZ2VfdXJsIH19
-CiAgICBzdGVwczoKICAgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsZCBhcnRp
-ZmFjdHMKICAgICAgICB1c2VzOiBhY3Rpb25zL2Rvd25sb2FkLWFydGlmYWN0
-QHY4CiAgICAgICAgd2l0aDoKICAgICAgICAgIG5hbWU6IGJ1aWxkLWZpbGVz
-CiAgICAgICAgICBwYXRoOiBkaXN0CgogICAgICAtIG5hbWU6IFNldHVwIFBh
-Z2VzCiAgICAgICAgaWQ6IHBhZ2VzCiAgICAgICAgdXNlczogYWN0aW9ucy9j
-b25maWd1cmUtcGFnZXNAdjYKCiAgICAgIC0gbmFtZTogVXBsb2FkIFBhZ2Vz
-IGFydGlmYWN0CiAgICAgICAgdXNlczogYWN0aW9ucy91cGxvYWQtcGFnZXMt
-YXJ0aWZhY3RAdjUKICAgICAgICB3aXRoOgogICAgICAgICAgcGF0aDogZGlz
-dAogICAgICAgICAgIyB2NCsgZXhjbHVkZXMgZG90ZmlsZXMgYnkgZGVmYXVs
-dDsga2VlcCB2MyBiZWhhdmlvciAoLmFzc2V0c2lnbm9yZSBldGMuKQogICAg
-ICAgICAgaW5jbHVkZS1oaWRkZW4tZmlsZXM6IHRydWUKCiAgICAgIC0gbmFt
-ZTogRGVwbG95IHRvIEdpdEh1YiBQYWdlcwogICAgICAgIGlkOiBkZXBsb3lt
-ZW50CiAgICAgICAgdXNlczogYWN0aW9ucy9kZXBsb3ktcGFnZXNAdjUKCiAg
-ZGVwbG95LWNsb3VkZmxhcmU6CiAgICBuYW1lOiBEZXBsb3kgdG8gQ2xvdWRm
-bGFyZSBQYWdlcwogICAgbmVlZHM6IFtzZXR1cCwgdmFsaWRhdGUsIGJ1aWxk
-XQogICAgcnVucy1vbjogJHt7IGlucHV0cy5ydW5uZXIgfHwgdmFycy5SVU5O
-RVIgfHwgJ3VidW50dS1sYXRlc3QnIH19CiAgICBpZjogfAogICAgICBuZWVk
-cy5zZXR1cC5vdXRwdXRzLnNob3VsZF9za2lwID09ICdmYWxzZScgJiYgCiAg
-ICAgIG5lZWRzLnZhbGlkYXRlLm91dHB1dHMuY2FuX2RlcGxveSA9PSAndHJ1
-ZScgJiYKICAgICAgbmVlZHMuc2V0dXAub3V0cHV0cy5kZXBsb3ltZW50X3Rh
-cmdldCA9PSAnY2xvdWRmbGFyZS1wYWdlcycKICAgIGVudmlyb25tZW50Ogog
-ICAgICBuYW1lOiBjbG91ZGZsYXJlLXBhZ2VzCiAgICAgIHVybDogJHt7IHN0
-ZXBzLmRlcGxveS5vdXRwdXRzLmRlcGxveW1lbnQtdXJsIH19CiAgICBzdGVw
-czoKICAgICAgIyBSZXF1aXJlZCBmb3IgUGFnZXMgRnVuY3Rpb25zOiBgd3Jh
-bmdsZXIgcGFnZXMgZGVwbG95YCBwaWNrcyB1cCB0aGUKICAgICAgIyBgZnVu
-Y3Rpb25zL2AgZGlyIGZyb20gdGhlIHdvcmtpbmcgZGlyZWN0b3J5IChyZXBv
-IHJvb3QpLCBub3QgZnJvbSBgZGlzdC9gLgogICAgICAtIG5hbWU6IENoZWNr
-b3V0CiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2NwoKICAgICAg
-LSBuYW1lOiBEb3dubG9hZCBidWlsZCBhcnRpZmFjdHMKICAgICAgICB1c2Vz
-OiBhY3Rpb25zL2Rvd25sb2FkLWFydGlmYWN0QHY4CiAgICAgICAgd2l0aDoK
-ICAgICAgICAgIG5hbWU6IGJ1aWxkLWZpbGVzCiAgICAgICAgICBwYXRoOiBk
-aXN0CgogICAgICAtIG5hbWU6IERlcGxveSB0byBDbG91ZGZsYXJlIFBhZ2Vz
-CiAgICAgICAgaWQ6IGRlcGxveQogICAgICAgIHVzZXM6IGNsb3VkZmxhcmUv
-d3JhbmdsZXItYWN0aW9uQHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIGFw
-aVRva2VuOiAke3sgc2VjcmV0cy5DTE9VREZMQVJFX0FQSV9UT0tFTiB9fQog
-ICAgICAgICAgYWNjb3VudElkOiAke3sgc2VjcmV0cy5DTE9VREZMQVJFX0FD
-Q09VTlRfSUQgfX0KICAgICAgICAgICMgYHBhZ2VzIGRlcGxveWAgY2FuJ3Qg
-Y3JlYXRlIGEgbWlzc2luZyBwcm9qZWN0IGluIG5vbi1pbnRlcmFjdGl2ZSBD
-SSwKICAgICAgICAgICMgc28gZW5zdXJlIGl0IGV4aXN0cyBmaXJzdC4gRmFp
-bHMgc2lsZW50bHkgd2hlbiBhbHJlYWR5IHByZXNlbnQuCiAgICAgICAgICBw
-cmVDb21tYW5kczogd3JhbmdsZXIgcGFnZXMgcHJvamVjdCBjcmVhdGUgJHt7
-IHZhcnMuQ0xPVURGTEFSRV9QUk9KRUNUX05BTUUgfHwgZ2l0aHViLmV2ZW50
-LnJlcG9zaXRvcnkubmFtZSB9fSAtLXByb2R1Y3Rpb24tYnJhbmNoPSR7UFJP
-RF9CUkFOQ0g6LW1haW59IHx8IHRydWUKICAgICAgICAgICMgbWFpbiAtPiBw
-cm9kdWN0aW9uOyBhbnkgb3RoZXIgYnJhbmNoIC0+IHByZXZpZXcgVVJMICg8
-YnJhbmNoPi48cHJvamVjdD4ucGFnZXMuZGV2KQogICAgICAgICAgY29tbWFu
-ZDogcGFnZXMgZGVwbG95IGRpc3QgLS1wcm9qZWN0LW5hbWU9JHt7IHZhcnMu
-Q0xPVURGTEFSRV9QUk9KRUNUX05BTUUgfHwgZ2l0aHViLmV2ZW50LnJlcG9z
-aXRvcnkubmFtZSB9fSAtLWJyYW5jaD0ke3sgZ2l0aHViLmhlYWRfcmVmIHx8
-IGdpdGh1Yi5yZWZfbmFtZSB9fQogICAgICAgICAgZ2l0SHViVG9rZW46ICR7
-eyBzZWNyZXRzLkdJVEhVQl9UT0tFTiB9fQoKICAjIFJlcG9ydCBza2lwcGVk
-IGJ1aWxkcy4gQ2FuY2VscyB0aGUgcnVuIHNvIGl0IHNob3dzIGdyZXkgIkNh
-bmNlbGxlZCIgaW5zdGVhZAogICMgb2YgYSBncmVlbiBzdWNjZXNzLiBNaXNz
-aW5nIGRlcGxveSBzZWNyZXRzIHN0YXkgYSBmYWlsdXJlIChjb25maWcgZXJy
-b3IpLgogIHJlcG9ydC1za2lwcGVkOgogICAgbmFtZTogQnVpbGQgU2tpcHBl
-ZAogICAgbmVlZHM6IFtzZXR1cCwgdmFsaWRhdGVdCiAgICBydW5zLW9uOiAk
-e3sgaW5wdXRzLnJ1bm5lciB8fCB2YXJzLlJVTk5FUiB8fCAndWJ1bnR1LWxh
-dGVzdCcgfX0KICAgIHBlcm1pc3Npb25zOgogICAgICBhY3Rpb25zOiB3cml0
-ZQogICAgICBjb250ZW50czogcmVhZAogICAgaWY6IHwKICAgICAgbmVlZHMu
-c2V0dXAub3V0cHV0cy5zaG91bGRfc2tpcCA9PSAndHJ1ZScgfHwKICAgICAg
-bmVlZHMudmFsaWRhdGUub3V0cHV0cy5jYW5fZGVwbG95ID09ICdmYWxzZScK
-ICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IFJlcG9ydCBza2lwIHJlYXNvbgog
-ICAgICAgIGVudjoKICAgICAgICAgIEdIX1RPS0VOOiAke3sgc2VjcmV0cy5H
-SVRIVUJfVE9LRU4gfX0KICAgICAgICAgIFJVTl9JRDogJHt7IGdpdGh1Yi5y
-dW5faWQgfX0KICAgICAgICBydW46IHwKICAgICAgICAgIGlmIFsgIiR7eyBu
-ZWVkcy5zZXR1cC5vdXRwdXRzLnNob3VsZF9za2lwIH19IiA9ICJ0cnVlIiBd
-OyB0aGVuCiAgICAgICAgICAgIGVjaG8gIuKPre+4jyBCdWlsZCBza2lwcGVk
-OiBbc2tpcCBjaV0gZm91bmQgaW4gY29tbWl0IG1lc3NhZ2UiCiAgICAgICAg
-ICAgIGdoIHJ1biBjYW5jZWwgIiRSVU5fSUQiCiAgICAgICAgICBlbHNlCiAg
-ICAgICAgICAgIGVjaG8gIuKdjCBCdWlsZCBza2lwcGVkOiAke3sgbmVlZHMu
-dmFsaWRhdGUub3V0cHV0cy5lcnJvcl9tZXNzYWdlIH19IgogICAgICAgICAg
-ICBleGl0IDEKICAgICAgICAgIGZpCgojIGUyZSBtaW5vciBlZGl0Cg==
+name: Deploy Site
+
+env:
+  BUILD_PATH: "."
+  BASE_URL: ${{ vars.BASE_URL }}
+  PROD_URL: ${{ vars.PROD_URL }}
+  CONTENT_DIR: ${{ vars.CONTENT_DIR }}
+  CMS_AUTH_URL: ${{ vars.CMS_AUTH_URL }}
+  PROD_BRANCH: ${{ vars.PROD_BRANCH }}
+  CMS_IMPORT: ${{ vars.CMS_IMPORT }}
+  CMS_REPO: ${{ vars.CMS_REPO }}
+  CMS_BACKEND: ${{ vars.CMS_BACKEND }}
+  CMS_BRANCH: ${{ vars.CMS_BRANCH }}
+  _VARS: ${{ toJson(vars) }}
+  REPO_URL: ${{ github.event.repository.html_url }}
+  # Optional: override Bun version. Falls back to package.json engines.bun if unset.
+  BUN_VERSION: ${{ vars.BUN_VERSION }}
+
+on:
+  # Runs on pushes to any branch (unless commit contains [skip ci]).
+  # main -> production deploy; any other branch -> Cloudflare preview URL.
+  push:
+    branches:
+      - "**"
+  # Manual deployment with platform selection
+  workflow_dispatch:
+    inputs:
+      deployment_target:
+        description: "Choose deployment target"
+        required: true
+        default: "cloudflare-pages"
+        type: choice
+        options:
+          - github-pages
+          - cloudflare-pages
+      # Blacksmith runners require the repo connected at blacksmith.sh.
+      # For push-triggered runs, set repo variable RUNNER (e.g. blacksmith-4vcpu-ubuntu-2404).
+      runner:
+        description: "Choose runner"
+        required: true
+        default: "ubuntu-latest"
+        type: choice
+        options:
+          - ubuntu-latest
+          - blacksmith-4vcpu-ubuntu-2404
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  deployments: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  # Check if we should skip CI and determine deployment target
+  setup:
+    name: Setup Deployment
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    outputs:
+      should_skip: ${{ steps.check.outputs.should_skip }}
+      deployment_target: ${{ steps.target.outputs.deployment_target }}
+      bun_version: ${{ steps.bun.outputs.version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Check for [skip ci] in commit message
+        id: check
+        env:
+          HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        run: |
+          if [[ "$HEAD_COMMIT_MESSAGE" == *"[skip ci]"* ]]; then
+            echo "should_skip=true" >> $GITHUB_OUTPUT
+            echo "Found [skip ci] in commit message, skipping workflow"
+          else
+            echo "should_skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Determine deployment target
+        id: target
+        if: steps.check.outputs.should_skip == 'false'
+        env:
+          CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "deployment_target=${{ github.event.inputs.deployment_target }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.ref_name }}" != "main" ]; then
+            # Non-main branches only produce Cloudflare preview deployments
+            echo "deployment_target=cloudflare-pages" >> "$GITHUB_OUTPUT"
+          else
+            # main: default to cloudflare-pages when CF secrets are set, else github-pages
+            if [ -n "$CF_API_TOKEN" ] && [ -n "$CF_ACCOUNT_ID" ]; then
+              echo "deployment_target=cloudflare-pages" >> "$GITHUB_OUTPUT"
+            else
+              echo "deployment_target=github-pages" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Get Bun version
+        id: bun
+        if: steps.check.outputs.should_skip == 'false'
+        run: |
+          if [ -n "$BUN_VERSION" ]; then
+            echo "version=$BUN_VERSION" >> "$GITHUB_OUTPUT"
+          else
+            # Read from package.json engines.bun (strip any leading >=, ^, ~)
+            VERSION=$(jq -r '.engines.bun' package.json | sed 's/[>=~^]//g')
+            echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          fi
+
+  # Escape hatch: a selected runner label that never picks up (e.g. Blacksmith
+  # requested on a repo that isn't connected) leaves jobs queued until GitHub's
+  # 24h self-hosted queue ceiling. This job runs on ubuntu-latest, waits, and
+  # cancels the run if nothing ever started. Only runs for non-default runners.
+  watchdog:
+    name: Runner Watchdog
+    if: ${{ (inputs.runner || vars.RUNNER || 'ubuntu-latest') != 'ubuntu-latest' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Cancel run if the selected runner never picked up
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          sleep 300
+          STARTED=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}/jobs" \
+            --jq '[.jobs[] | select(.name != "Runner Watchdog") | select(.status == "in_progress" or .status == "completed")] | length')
+          if [ "$STARTED" -eq 0 ]; then
+            echo "::error::No job started within 5min - runner label unavailable. Rerun with runner=ubuntu-latest or fix the Blacksmith connection."
+            gh run cancel "$RUN_ID" || true
+          fi
+
+  # Validate required secrets and configurations
+  validate:
+    name: Validate Configuration
+    needs: setup
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    if: needs.setup.outputs.should_skip == 'false'
+    outputs:
+      can_deploy: ${{ steps.validate.outputs.can_deploy }}
+      error_message: ${{ steps.validate.outputs.error_message }}
+    steps:
+      - name: Validate deployment configuration
+        id: validate
+        env:
+          CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          TARGET="${{ needs.setup.outputs.deployment_target }}"
+          CAN_DEPLOY="true"
+          ERROR_MSG=""
+
+          if [ "$TARGET" = "cloudflare-pages" ]; then
+            if [ -z "$CF_API_TOKEN" ] || [ -z "$CF_ACCOUNT_ID" ]; then
+              CAN_DEPLOY="false"
+              ERROR_MSG="Missing Cloudflare secrets: CLOUDFLARE_API_TOKEN and/or CLOUDFLARE_ACCOUNT_ID"
+            fi
+          elif [ "$TARGET" = "github-pages" ]; then
+            # GitHub Pages doesn't require additional secrets
+            echo "GitHub Pages deployment configuration is valid"
+          fi
+
+          echo "can_deploy=$CAN_DEPLOY" >> "$GITHUB_OUTPUT"
+          echo "error_message=$ERROR_MSG" >> "$GITHUB_OUTPUT"
+
+  build:
+    name: Build
+    needs: [setup, validate]
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    timeout-minutes: 10
+    if: |
+      needs.setup.outputs.should_skip == 'false' && 
+      needs.validate.outputs.can_deploy == 'true'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      # Select the runtime before provisioning Bun so the npm/Node fallback
+      # stays reachable: Setup Bun only runs when Bun is already in context
+      # (pinning its version); otherwise the job goes straight to Node.
+      - name: Detect runtime
+        id: runtime
+        run: |
+          if command -v bun >/dev/null 2>&1; then
+            echo "bun=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "bun=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Bun
+        if: steps.runtime.outputs.bun == 'true'
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: ${{ needs.setup.outputs.bun_version }}
+
+      - name: Setup Node
+        if: steps.runtime.outputs.bun != 'true'
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
+
+      - name: Cache Bun dependencies
+        if: steps.runtime.outputs.bun == 'true'
+        uses: actions/cache@v6
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lock', '**/bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+
+      - name: Cache build assets
+        uses: actions/cache@v6
+        with:
+          path: .cache
+          key: ${{ runner.os }}-assets-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-assets-
+
+      - name: Install dependencies
+        run: |
+          if command -v bun >/dev/null 2>&1; then
+            bun install
+          elif [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+        working-directory: ${{ env.BUILD_PATH }}
+
+      # Exposes every GitHub Actions secret as an env var for subsequent steps,
+      # so any secret you add in repo settings is available in process.env at build time.
+      # Multiline-safe; values remain masked in logs. Excludes the auto github_token.
+      - name: Export secrets to environment
+        env:
+          SECRETS_JSON: ${{ toJson(secrets) }}
+        run: |
+          echo "$SECRETS_JSON" \
+            | jq -r 'to_entries[] | select(.key != "github_token") | "\(.key)<<__POKO_EOF__\n\(.value)\n__POKO_EOF__"' \
+            >> "$GITHUB_ENV"
+
+      # Exposes the URL configured in the repository Pages settings, custom
+      # domain included, so the build knows whether it is served from a
+      # `/<repo>/` sub-folder or from the root of a domain.
+      - name: Setup Pages
+        id: pages
+        if: needs.setup.outputs.deployment_target == 'github-pages'
+        uses: actions/configure-pages@v6
+
+      - name: Build with 11ty
+        run: |
+          if command -v bun >/dev/null 2>&1; then
+            bun run build
+          else
+            npm run build
+          fi
+        working-directory: ${{ env.BUILD_PATH }}
+        env:
+          DEPLOYMENT_TARGET: ${{ needs.setup.outputs.deployment_target }}
+          GITHUB_PAGES_URL: ${{ steps.pages.outputs.base_url }}
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: build-files
+          path: ${{ env.BUILD_PATH }}/dist
+          retention-days: 1
+
+  deploy-github-pages:
+    name: Deploy to GitHub Pages
+    needs: [setup, validate, build]
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    if: |
+      needs.setup.outputs.should_skip == 'false' && 
+      needs.validate.outputs.can_deploy == 'true' &&
+      needs.setup.outputs.deployment_target == 'github-pages'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v8
+        with:
+          name: build-files
+          path: dist
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+          # v4+ excludes dotfiles by default; keep v3 behavior (.assetsignore etc.)
+          include-hidden-files: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+  deploy-cloudflare:
+    name: Deploy to Cloudflare Pages
+    needs: [setup, validate, build]
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    if: |
+      needs.setup.outputs.should_skip == 'false' && 
+      needs.validate.outputs.can_deploy == 'true' &&
+      needs.setup.outputs.deployment_target == 'cloudflare-pages'
+    environment:
+      name: cloudflare-pages
+      url: ${{ steps.deploy.outputs.deployment-url }}
+    steps:
+      # Required for Pages Functions: `wrangler pages deploy` picks up the
+      # `functions/` dir from the working directory (repo root), not from `dist/`.
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Download build artifacts
+        uses: actions/download-artifact@v8
+        with:
+          name: build-files
+          path: dist
+
+      - name: Deploy to Cloudflare Pages
+        id: deploy
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # `pages deploy` can't create a missing project in non-interactive CI,
+          # so ensure it exists first. Fails silently when already present.
+          preCommands: wrangler pages project create ${{ vars.CLOUDFLARE_PROJECT_NAME || github.event.repository.name }} --production-branch=${PROD_BRANCH:-main} || true
+          # main -> production; any other branch -> preview URL (<branch>.<project>.pages.dev)
+          command: pages deploy dist --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME || github.event.repository.name }} --branch=${{ github.head_ref || github.ref_name }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+  # Report skipped builds. Cancels the run so it shows grey "Cancelled" instead
+  # of a green success. Missing deploy secrets stay a failure (config error).
+  report-skipped:
+    name: Build Skipped
+    needs: [setup, validate]
+    runs-on: ${{ inputs.runner || vars.RUNNER || 'ubuntu-latest' }}
+    permissions:
+      actions: write
+      contents: read
+    if: |
+      needs.setup.outputs.should_skip == 'true' ||
+      needs.validate.outputs.can_deploy == 'false'
+    steps:
+      - name: Report skip reason
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          if [ "${{ needs.setup.outputs.should_skip }}" = "true" ]; then
+            echo "⏭️ Build skipped: [skip ci] found in commit message"
+            gh run cancel "$RUN_ID"
+          else
+            echo "❌ Build skipped: ${{ needs.validate.outputs.error_message }}"
+            exit 1
+          fi
+
+# e2e minor edit
